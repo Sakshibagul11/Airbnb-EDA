@@ -1,4 +1,4 @@
-### 🌍 Airbnb EDA Project — Exploratory Data Analysis
+### 🌍 Airbnb Newyork EDA Project — Exploratory Data Analysis
 
 ---
 
