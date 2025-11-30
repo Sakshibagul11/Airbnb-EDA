@@ -5,7 +5,7 @@
 
 ## ✨📌 Project Overview
 
-![](https://github.com/Sakshibagul11/Airbnb-EDA/blob/main/AirbnbNewyork_EDA.jpeg)
+![](https://github.com/Sakshibagul11/Airbnb-EDA/blob/main/airbnb_NYC.jpg)
 
 This project performs Exploratory Data Analysis (EDA) on Airbnb dataset to understand:
 
